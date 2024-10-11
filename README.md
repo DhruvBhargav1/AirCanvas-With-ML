@@ -21,3 +21,5 @@ Drawing on Canvas: Draw lines between stored points on both the canvas and frame
 Display Output: Show the processed frame and the canvas in separate windows.
 
 Cleanup: Release the webcam and close all OpenCV windows upon exit.
+![Screenshot 2024-10-11 175807](https://github.com/user-attachments/assets/a16dea79-dc19-496d-bd71-b6620f660adf)
+

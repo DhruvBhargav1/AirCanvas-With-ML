@@ -1,7 +1,9 @@
 # AirCanvas-With-ML
 This project implements an interactive drawing application that utilizes advanced computer vision techniques to recognize hand gestures in real-time, allowing users to draw on a digital canvas seamlessly. Built using OpenCV for video processing and Mediapipe for hand landmark detection, this application provides a responsive and intuitive user interface for creative expression. The project incorporates elements of machine learning to enhance gesture recognition accuracy, enabling a more reliable interaction model.
 
-Algorithm
+
+# ALGORITHM:
+
 Initialization: Import libraries and set up color point deques and variables.
 
 Canvas Setup: Create a blank canvas and draw color selection buttons.
